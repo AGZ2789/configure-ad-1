@@ -116,10 +116,27 @@ ping -t <ip address> (perpetual ping)
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
+![Snipaste_2024-05-18_18-52-04](https://github.com/AGZ2789/configure-ad-1/assets/84995125/37d44d51-4447-4f8f-be76-c7243f18860c)
 
+![Snipaste_2024-05-18_18-37-05](https://github.com/AGZ2789/configure-ad-1/assets/84995125/9ecf7c58-a281-4bf6-9d80-0567bad9d448)
 
+![Snipaste_2024-05-18_18-40-06](https://github.com/AGZ2789/configure-ad-1/assets/84995125/6e552840-9348-4e07-a9c9-171ff48adbd8)
 
+![Snipaste_2024-05-18_18-41-00](https://github.com/AGZ2789/configure-ad-1/assets/84995125/699464a7-04d3-495c-90fc-014487ffc51f)
 
+![Snipaste_2024-05-18_18-41-34](https://github.com/AGZ2789/configure-ad-1/assets/84995125/0bb0f2c1-421d-4fa7-9cfe-8c1a28769247)
+
+![Snipaste_2024-05-18_18-42-10](https://github.com/AGZ2789/configure-ad-1/assets/84995125/1aa86999-73ce-461d-9568-68486da7150e)
+
+![Snipaste_2024-05-18_18-42-40](https://github.com/AGZ2789/configure-ad-1/assets/84995125/9c2a805d-fa47-45d8-9c6b-510c94ec9a25)
+
+![Snipaste_2024-05-18_18-53-40](https://github.com/AGZ2789/configure-ad-1/assets/84995125/100700ee-43d4-4102-868b-a57f148a68b5)
+
+![Snipaste_2024-05-18_18-58-21](https://github.com/AGZ2789/configure-ad-1/assets/84995125/eed09063-552d-4f8d-afd7-dd8073079803)
+
+![Snipaste_2024-05-18_18-59-39](https://github.com/AGZ2789/configure-ad-1/assets/84995125/e2289e57-9f34-470b-af0a-ba3b0e84a7bd)
+
+![Snipaste_2024-05-18_19-02-05](https://github.com/AGZ2789/configure-ad-1/assets/84995125/58b771f1-ac9d-422f-911c-ff9cd368b631)
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
@@ -134,9 +151,21 @@ ping -t <ip address> (perpetual ping)
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
+![Snipaste_2024-05-18_19-13-20](https://github.com/AGZ2789/configure-ad-1/assets/84995125/4be9cd99-07cc-4fbc-8c3a-a427d7a2984d)
 
+![Snipaste_2024-05-18_19-16-03](https://github.com/AGZ2789/configure-ad-1/assets/84995125/538c797a-1646-4248-a720-96507768e783)
 
+![Snipaste_2024-05-18_19-19-21](https://github.com/AGZ2789/configure-ad-1/assets/84995125/c6dbae5a-a63e-4e50-ad05-4f3f17207024)
 
+![Snipaste_2024-05-18_19-22-10](https://github.com/AGZ2789/configure-ad-1/assets/84995125/2bec6e08-446d-463d-9191-2f97f7736cf1)
+
+![Snipaste_2024-05-18_19-23-21](https://github.com/AGZ2789/configure-ad-1/assets/84995125/72772089-98eb-4ba6-9581-1302681c5f79)
+
+![Snipaste_2024-05-18_19-23-54](https://github.com/AGZ2789/configure-ad-1/assets/84995125/43385b80-cba3-4b80-9169-b153c7e78cb1)
+
+![Snipaste_2024-05-18_19-28-57](https://github.com/AGZ2789/configure-ad-1/assets/84995125/ba7844a3-488f-4abd-9c92-3457de33a52f)
+
+![Snipaste_2024-05-18_21-01-05](https://github.com/AGZ2789/configure-ad-1/assets/84995125/0bef6d97-054a-4585-abb1-33b8f04356d8)
 
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
@@ -147,12 +176,21 @@ ping -t <ip address> (perpetual ping)
 - From the Azure Portal, restart Client-1
 - Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain (computer will restart)
 - Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain
-- Create a new OU named “_CLIENTS” and drag Client-1 into there (Step is not really necessary, just for organizational purposes. I guess I skipped this in the lab!)
-
+- Create a new OU named “_CLIENTS” and drag Client-1 into there (Step is not really necessary, just for organizational purposes.)
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
+![Snipaste_2024-05-18_21-08-46](https://github.com/AGZ2789/configure-ad-1/assets/84995125/50470790-b6ee-4db5-b53f-d2aa645cef72)
 
+![Snipaste_2024-05-18_21-10-45](https://github.com/AGZ2789/configure-ad-1/assets/84995125/e913f2b7-7332-44ef-9d11-dfcabe682311)
+
+![Snipaste_2024-05-18_21-24-38](https://github.com/AGZ2789/configure-ad-1/assets/84995125/36cf490b-53bc-4dd5-8e68-b60aaeb09445)
+
+![Snipaste_2024-05-18_21-25-23](https://github.com/AGZ2789/configure-ad-1/assets/84995125/2fe3f2ff-eddc-42c7-9e5d-3513ee5a8360)
+
+![Snipaste_2024-05-18_21-27-43](https://github.com/AGZ2789/configure-ad-1/assets/84995125/29148aa0-ed1f-4f45-81a8-85f18fe034e3)
+
+![Snipaste_2024-05-18_21-43-40](https://github.com/AGZ2789/configure-ad-1/assets/84995125/c44896d3-b31f-46a3-a889-bf6c758efa36)
 
 
 
@@ -164,12 +202,21 @@ ping -t <ip address> (perpetual ping)
 - Click “Remote Desktop”
 - Allow “domain users” access to remote desktop
 - You can now log into Client-1 as a normal, non-administrative user now
-- Normally you’d want to do this with Group Policy that allows you to change MANY systems at once (maybe a future lab)
+- Normally you’d want to do this with Group Policy that allows you to change MANY systems at once.
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
+![Snipaste_2024-05-18_21-54-01](https://github.com/AGZ2789/configure-ad-1/assets/84995125/4b8a7283-017a-4b42-ae28-8218a44e8b49)
 
+![Snipaste_2024-05-18_21-54-44](https://github.com/AGZ2789/configure-ad-1/assets/84995125/6519b939-5250-46ed-aacd-b2f0c5d58bb1)
 
+![Snipaste_2024-05-18_21-59-45](https://github.com/AGZ2789/configure-ad-1/assets/84995125/805ea378-4e1d-4d66-9c3b-503b8685a8eb)
+
+![Snipaste_2024-05-18_22-12-48](https://github.com/AGZ2789/configure-ad-1/assets/84995125/f628650d-60d1-48c8-82b3-62135bcd1c61)
+
+![Snipaste_2024-05-18_22-13-29](https://github.com/AGZ2789/configure-ad-1/assets/84995125/d363af64-6c00-406a-884d-476fafbf5320)
+
+![Snipaste_2024-05-18_22-17-05](https://github.com/AGZ2789/configure-ad-1/assets/84995125/bb365c0f-97f4-4b93-b233-24019d2d8c7f)
 
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
@@ -185,10 +232,23 @@ ping -t <ip address> (perpetual ping)
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
+![Snipaste_2024-05-18_22-20-47](https://github.com/AGZ2789/configure-ad-1/assets/84995125/d6e51bf4-e1d6-4ee7-988d-7b2c3647c4a9)
 
+![Snipaste_2024-05-18_22-22-10](https://github.com/AGZ2789/configure-ad-1/assets/84995125/617462f2-f668-493a-8ff8-fe3d1a9eb642)
 
+![Snipaste_2024-05-18_22-24-25](https://github.com/AGZ2789/configure-ad-1/assets/84995125/8695216a-21e2-483e-8850-a863145dfd0f)
 
+![Snipaste_2024-05-18_22-26-35](https://github.com/AGZ2789/configure-ad-1/assets/84995125/451ad882-0606-4cd2-af02-d4757e087afb)
 
+![Snipaste_2024-05-18_22-27-46](https://github.com/AGZ2789/configure-ad-1/assets/84995125/5cea647b-230e-4be9-b088-7292e286b1ea)
+
+![Snipaste_2024-05-18_22-32-17](https://github.com/AGZ2789/configure-ad-1/assets/84995125/c7d0e384-b2d0-4ef7-b24e-3b71a165448d)
+
+![Snipaste_2024-05-18_22-36-58](https://github.com/AGZ2789/configure-ad-1/assets/84995125/9852491b-07f6-4802-ade8-f8e343253fbb)
+
+![Snipaste_2024-05-18_22-37-17](https://github.com/AGZ2789/configure-ad-1/assets/84995125/7b3453bd-0f50-431d-bc8c-e99523509ba3)
+
+![Snipaste_2024-05-18_22-42-40](https://github.com/AGZ2789/configure-ad-1/assets/84995125/1b239030-5015-4870-bd3d-2fb89475241d)
 
 <h2>Finish</h2>
 
