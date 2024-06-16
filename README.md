@@ -250,4 +250,12 @@ ping -t <ip address> (perpetual ping)
 
 ![Snipaste_2024-05-18_22-42-40](https://github.com/AGZ2789/configure-ad-1/assets/84995125/1b239030-5015-4870-bd3d-2fb89475241d)
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+<h2>Lab Cleanup (DON’T FORGET THIS)</h2>
+
+- Close your Remote Desktop connection
+- Delete the Resource Group(s) created at the beginning of this lab
+- Verify Resource Group Deletion
+
 <h2>Finish</h2>
